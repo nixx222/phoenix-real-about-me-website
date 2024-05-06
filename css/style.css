@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Coming+Soon&display=swap');
+header{
+  background-color: ;
+  paddingL 1rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+}
+
+nav {
+}
+nav ul{
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-flow: row wrap;
+  gap: 1rem;
+  justify-content: flex-end;
+  
+}
+nav a{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  font-size: 1rem;
+}
+nav a {
+  hover: 
+}
+nav li{
+  /* border: 2px solid black; */ /*for visual help with the borders*/
+  
+}
+body{
+  font-family: "Coming Soon", cursive;
+  font-weight: 400;
+  font-style: normal;
+  background-image: url()
+}
+
+}
+img{
+  max-width: 100%;
+}
